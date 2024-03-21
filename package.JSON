@@ -7,7 +7,7 @@
 "dependencies": { 
              "@adiwajshing/keyed-db": "^0.2.4",
              "@hapi/boom": "^9.1.4",
-             "@whiskeysockets/baileys": "6.5.0",
+             "@whiskeysockets/baileys": "^6.6.0",
              "acrcloud": "^1.4.0",
              "anime-character-random": "latest",
              "aptoide-scraper": "^1.0.1",
@@ -42,7 +42,7 @@
              "node-fetch": "^2.6.1",
              "node-webpmux": "^3.1.0",
              "openai": "^3.1.0",
-             "pastebin-js": "latest",
+             "pastebin-ts": "latest",
              "path": "^0.12.7",
              "pg": "^8.11.3",
              "pm2": "^5.2.0",
