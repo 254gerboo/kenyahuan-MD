@@ -3,7 +3,7 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════\\
-global.owner = process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : '923184474176';
+global.owner = process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : '254710537788';
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Suhail:suhail@cluster0.rzhkoqf.mongodb.net/?retryWrites=true&w=majority" ;
 global.port= false // Math.floor(Math.random() * (9999 - 1000 + 1)) + 1000  ; 
 global.audio = '' ; 
@@ -14,7 +14,7 @@ global.email = 'gerboo676@gmail.com' ;
 global.location = 'Nairobi Kenya' ;
 global.timezone  = process.env.TIME_ZONE || 'Africa/eastafrica'
 global.sudo =  process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : '254710537788'; ;
-global.devs = "923184474176"; //Dont change it From here
+global.devs = "254710537788"; //Dont change it From here
 global.github  = process.env.YOUR_GITHUB || 'https://github.com/254gerboo/kenyahuan-Md';
 global.scan  = process.env.QR_URL || 'https://replit.com/@254gerboo/kenyahuan-Md?v=1';
 global.website = 'https://github.com/254gerboo/kenyahuan-Md' ; //wa.me/+254710537788
@@ -47,7 +47,7 @@ module.exports = {
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME,
   HEROKU_API_KEY: process.env.HEROKU_API_KEY,
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
-  caption :process.env.CAPTION || "```ᴘᴏᴡᴇʀᴇᴅ ʙʏ ĸənʎahuan-ᴍᴅ```",  ,
+  caption :process.env.CAPTION || "```ᴘᴏᴡᴇʀᴇᴅ ʙʏ ĸənʎahuan-ᴍᴅ```", 
   OPENAI_API_KEY: process.env.OPENAI_API_KEY ||'' ,
   VERSION: process.env.VERSION || 'v.1.2.2',
   LANG: process.env.THEME ? process.env.THEME.toUpperCase() : 'kenyahuan',
