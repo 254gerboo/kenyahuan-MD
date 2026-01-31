@@ -26,7 +26,7 @@ A MULTI-DEVICE WHATSAPP BOT 🇰🇪
  click the button below to fork kenyhun-md to your github account:
  <div align="centre">
  <a href="https://github.com/254gerboo/kenyahuan-MD/fork">
- <img src="https://img.shields.io/bdge/Fork-Repository-blue?style=for-the-badge" alt="fork the repository"/>
+ <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="fork the repository"/>
  </a>
  </div>
 
