@@ -17,6 +17,7 @@ A MULTI-DEVICE WHATSAPP BOT 🇰🇪
   
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{254gerboo}/count.svg" alt="254gerboo :: Visitor's Count" /></p>
+
 ---
 
 ## steps to deploy the bot 

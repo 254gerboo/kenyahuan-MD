@@ -15,9 +15,9 @@ global.location = 'Nairobi Kenya' ;
 global.timezone  = process.env.TIME_ZONE || 'Africa/eastafrica'
 global.sudo =  process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : '254710537788'; ;
 global.devs = "254710537788"; //Dont change it From here
-global.github  = process.env.YOUR_GITHUB || 'https://github.com/254gerboo/kenyahuan-Md';
-global.scan  = process.env.QR_URL || 'https://replit.com/@254gerboo/kenyahuan-Md?v=1';
-global.website = 'https://github.com/254gerboo/kenyahuan-Md' ; //wa.me/+254710537788
+global.github  = process.env.YOUR_GITHUB || 'https://github.com/254gerboo/kenyahuan-MD';
+global.scan  = process.env.QR_URL || 'https://replit.com/@254gerboo/kenyahuan-MD?v=1';
+global.website = 'https://github.com/254gerboo/kenyahuan-MD' ; //wa.me/+254710537788
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || '' ;
 module.exports = {
   sessionName: process.env.SESSION_ID || "",      //Put Your Session Id Here
