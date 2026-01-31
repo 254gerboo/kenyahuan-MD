@@ -17,3 +17,30 @@ A MULTI-DEVICE WHATSAPP BOT 🇰🇪
   
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{254gerboo}/count.svg" alt="254gerboo :: Visitor's Count" /></p>
+---
+## steps to deploy the bot 
+### step 1: fork this repository
+ click the button below to fork kenyhun-md to your github account:
+ <div align="centre">
+ <a href="https://github.com/254gerboo/KENYAHUAN-MD/fork">
+ <img src="https://img.shields.io/bdge/Fork-Repository-blue?style=for-the-badge" alt="fork the repository"/>
+ </a>
+ </div>
+
+ ---
+ ### step 2:get pair code
+ connect the bot to your whatsapp account by pair code.
+ click the button to deploy the bot on replit.
+
+ <div align="centre">
+ <a href="https://KENYAHUAN-MD-bot-paircode.onrender.com"target="_blank">
+ <img src="https://img.shields.io/badge/GET%20PAIR%20-Easy%20method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
+ </a>
+ </div>
+
+ ### after getting creds.json file upload it to session folder
+ ## contributors
+ contributions, issues, and features request are welcome! feel free to check [issues page](https://github.com/254gerbooo/KENYAHUAN-MD/issues).
+
+ ## show your support
+  if you like this project, give it [star on github](https://github.com/254gerboo/KENYAHUAN-MD)!
