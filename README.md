@@ -18,7 +18,10 @@ A MULTI-DEVICE WHATSAPP BOT 🇰🇪
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{254gerboo}/count.svg" alt="254gerboo :: Visitor's Count" /></p>
 ---
+
 ## steps to deploy the bot 
+---
+
 ### step 1: fork this repository
  click the button below to fork kenyhun-md to your github account:
  <div align="centre">
