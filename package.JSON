@@ -47,8 +47,8 @@
              "pg": "^8.11.3",
              "pm2": "^5.2.0",
 
-             "qrcode": "latest",
-             "qrcode-terminal": "latest",
+             "qrcode": "^11.6.2",
+             "qrcode-terminal": "^11.6.2",
              "secktor-pack": "latest",
              "simple-git": "^3.15.1",
              "translatte": "^3.0.1",
