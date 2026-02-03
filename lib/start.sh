@@ -1,6 +1,6 @@
 while true
 do
-echo "Starting tribal-chief-Md..."
+echo "Starting KENYAN-MD..."
 node lib/client.js
 done
 

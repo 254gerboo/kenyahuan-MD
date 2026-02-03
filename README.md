@@ -47,4 +47,4 @@ A MULTI-DEVICE WHATSAPP BOT 🇰🇪
  contributions, issues, and features request are welcome! feel free to check [issues page](https://github.com/254gerbooo/kenyahuan-MD/issues).
 
  ## show your support
-  if you like this project, give it [star on github](https://github.com/254gerboo/kenyahuan-MD)!
+  if you like this project, give it [star on github](https://github.com/254gerboo/kenyahuan-MD)
