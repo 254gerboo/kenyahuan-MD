@@ -52,12 +52,15 @@ A MULTI-DEVICE WHATSAPP BOT 🇰🇪
 ### deploy on heroku
 <div align="center">
 <a href="https://dashboard.heroku.com/login"target="_blank">
-<img src="https://img.shields.io/badge/Heroku-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Heroku"/>
+<img src="https://img.shields.io/badge/Heroku-D6B7D6?style=for-the-badge&logo=Heroku&logoColor=black" alt="Heroku"/>
 
+### deploy on koyeb
+<div align="center">
+<a href="https://dashboard.koyeb.com"target="_blank">
+<img src="https://img.shields.io/badge/Koyeb-D6B7D6?style=for-the-badge&logo=Koyeb&logocolor=white"alt="Koyeb"/>
 
- ### after getting creds.json file upload it to session folder
- ## contributors
- contributions, issues, and features request are welcome! feel free to check [issues page](https://github.com/254gerbooo/kenyahuan-MD/issues).
+### contributors
+ contributions, issues, and features request are welcome! feel free to check [issues page](https://github.com/254gerbooo/kenyahuan-MD/issues)
 
  ## show your support
   if you like this project, give it [star on github](https://github.com/254gerboo/kenyahuan-MD)
