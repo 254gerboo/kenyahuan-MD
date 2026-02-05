@@ -42,6 +42,19 @@ A MULTI-DEVICE WHATSAPP BOT 🇰🇪
  </a>
  </div>
 
+ ### Deploy on Below Panel
+<div align="center">
+<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
+  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
+</a>
+</div>
+
+### deploy on heroku
+<div align="center">
+<a href="https://dashboard.heroku.com/login"target="_blank">
+<img src="https://img.shields.io/badge/Heroku-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Heroku"/>
+
+
  ### after getting creds.json file upload it to session folder
  ## contributors
  contributions, issues, and features request are welcome! feel free to check [issues page](https://github.com/254gerbooo/kenyahuan-MD/issues).
