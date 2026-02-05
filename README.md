@@ -56,7 +56,7 @@ A MULTI-DEVICE WHATSAPP BOT 🇰🇪
 
 ### deploy on koyeb
 <div align="center">
-<a href="https://dashboard.koyeb.com/login"target="_blank">
+<a href="https://app.koyeb.com/auth/signin"target="_blank">
 <img src="https://img.shields.io/badge/Koyeb-D6B7D6?style=for-the-badge&logo=Koyeb&logocolor=white"alt="Koyeb"/>
 
 ### contributors
