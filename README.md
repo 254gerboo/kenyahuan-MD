@@ -37,7 +37,7 @@ A MULTI-DEVICE WHATSAPP BOT 🇰🇪
  click the button to deploy the bot on replit.
 
  <div align="centre">
- <a href="https://kenyahuan-md.onrender.com"target="_blank">
+ <a href="https://replit.com/@254gerboo/kenyhuan-pairing"target="_blank">
  <img src="https://img.shields.io/badge/GET%20PAIR%20-Easy%20method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
  </a>
  </div>
