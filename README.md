@@ -61,9 +61,19 @@ A MULTI-DEVICE WHATSAPP BOT 🇰🇪
 
 ### deploy on vercel
 <div align="center">
-<a href="https://vercel.com/auth/signin"target="target=_blank">
+<a href="https://vercel.com/auth/signin" target="_blank">
 <img src="https://img.shields.io/badge/vercel-D6B7D6?style=for-the-badge&logo=vercel&logocolor=white"alt="vercel"/>
+</a>
+</div>
 
+#### Vercel deployment steps
+
+1. Sign in to [Vercel](https://vercel.com) with the GitHub account that contains your fork.
+2. In the Vercel dashboard, select **Add New** > **Project**, then import your fork of this repository.
+3. Open **Environment Variables** and add your `SESSION_ID`, `SUDO`, and `MODE` values. Use `public` or `private` for `MODE`.
+4. Click **Deploy** and check the deployment logs for installation errors.
+
+> **Note:** Vercel uses serverless functions, which stop after a request finishes. This WhatsApp bot requires a persistent connection and uses PM2, so it cannot stay online on Vercel. Use Koyeb, Heroku, or another service that supports always-on Node.js processes for the running bot.
 
 ### contributors
  contributions, issues, and features request are welcome! feel free to check [issues page](https://github.com/254gerbooo/kenyahuan-MD/issues)
