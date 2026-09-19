@@ -59,6 +59,12 @@ A MULTI-DEVICE WHATSAPP BOT 🇰🇪
 <a href="https://app.koyeb.com/auth/signin"target="_blank">
 <img src="https://img.shields.io/badge/Koyeb-D6B7D6?style=for-the-badge&logo=Koyeb&logocolor=white"alt="Koyeb"/>
 
+### deploy on vercel
+<div align="center">
+<a href="https://app.vercel.com/auth/signin"target="target=_blank">
+<img src="https://img.shields.io/badge/vercel-D6B7D6?style=for-the-badge&logo=vercel&logocolor=white"alt="vercel"/>
+
+
 ### contributors
  contributions, issues, and features request are welcome! feel free to check [issues page](https://github.com/254gerbooo/kenyahuan-MD/issues)
 
