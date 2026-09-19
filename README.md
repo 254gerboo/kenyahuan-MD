@@ -61,7 +61,7 @@ A MULTI-DEVICE WHATSAPP BOT 🇰🇪
 
 ### deploy on vercel
 <div align="center">
-<a href="https://app.vercel.com/auth/signin"target="target=_blank">
+<a href="https://vercel.com/auth/signin"target="target=_blank">
 <img src="https://img.shields.io/badge/vercel-D6B7D6?style=for-the-badge&logo=vercel&logocolor=white"alt="vercel"/>
 
 
